@@ -1,0 +1,40 @@
+.one {
+    text-align: center;
+    color :#f9742c;
+}
+
+.two {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 500px;
+    height: 500px;
+    
+
+}
+
+.head{
+
+    background-image: URL(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/I9MWSDR/looping-abstract-color-background-blue_bdbpmtru__F0000.png);
+    
+    }
+    
+.image{
+    text-align: center;
+    background-image: URL(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuE14jJ9xFN9M8le4ZxyBFRlOx8HZmePoMtUBSqkrjy4XS98wF5A);
+    height: 150px;  
+    
+    }
+    .button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+    
